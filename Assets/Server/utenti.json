@@ -1,0 +1,18 @@
+{
+    "voci": [
+        {
+            "idUtente": 0,
+            "nomeUtente": "Giocatore 0",
+            "punteggio": 48,
+            "ultimaPosizioneX": -1,
+            "ultimaPosizioneY": 2
+        },
+        {
+            "idUtente": 1,
+            "nomeUtente": "Giocatore 1",
+            "punteggio": 1,
+            "ultimaPosizioneX": 1,
+            "ultimaPosizioneY": 1
+        }
+    ]
+}

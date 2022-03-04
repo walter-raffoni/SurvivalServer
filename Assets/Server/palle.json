@@ -1,0 +1,16 @@
+{
+    "voci": [
+        {
+            "idPalla": 0,
+            "presa": true,
+            "posizioneX": -3,
+            "posizioneY": 2
+        },
+        {
+            "idPalla": 1,
+            "presa": false,
+            "posizioneX": 7,
+            "posizioneY": 7
+        }
+    ]
+}
